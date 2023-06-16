@@ -2,7 +2,8 @@
 
 My name is Calvin,
 
-Current job: Internship at Nissan-North America
+Current job: Student Intern at Nissan-North America
+
 Programming langs: C++, Python, C, HTML/CSS, PHP, Javascript, Java, Lua, Matlab, CAPL, and R.
 
 <!--
