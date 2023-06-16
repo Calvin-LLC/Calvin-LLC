@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Calvin,
+
+Current job: Internship at Nissan-North America
+Programming langs: C++, Python, C, HTML/CSS, PHP, Javascript, Java, Lua, Matlab, CAPL, and R.
+
 <!--
 **Calvin-LLC/Calvin-LLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
