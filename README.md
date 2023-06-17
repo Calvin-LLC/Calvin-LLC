@@ -1,2 +1,13 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="center">Current job: Student Intern at Nissan-North America<br/>Programming langs: C++, Python, C, HTML/CSS, PHP, Javascript, Java, Lua, Matlab, CAPL, and R.<br/>Hobbies: Reverse Engineering, Automation, Robotics, and Gaming</p>
+<p align="center">Current job: Student Intern at Nissan-North America<br/>Programming langs: C++, Python, C, HTML/CSS, PHP, Javascript, Java, Lua, Matlab, CAPL, and R.<br/>Hobbies: Reverse Engineering, Automation, Robotics, and Gaming<br/><br/></p>
+
+<div align="center">
+  <a href="https://calvinllc.net">
+    <img src="https://github.com/Calvin-LLC/Calvin-LLC/blob/main/waves.gif?raw=true" alt="Portfolio" width="200" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://calvinllc.net">
+    <p>Portfolio</p>
+  </a>
+</div>
