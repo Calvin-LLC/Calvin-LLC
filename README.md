@@ -1,5 +1,5 @@
 <h1 align="center">👋</h1>
-<p align="center">Current job: Undergraduate Research Assistant<br/>Programming langs: C++, Python, C, HTML/CSS, PHP, Javascript, Java, Kotlin, Lua, Matlab, CAPL, SQL, 
+<p align="center">Current job: Freelance Developer<br/>Programming langs: C++, Python, C, HTML/CSS, PHP, Javascript, Java, Kotlin, Lua, Matlab, CAPL, SQL, 
  and R.<br/>Hobbies: Reverse Engineering, Automation, Artificial Intelligence, Robotics, and Gaming<br/><br/></p>
 
 <div align="center">
