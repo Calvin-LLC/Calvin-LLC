@@ -11,4 +11,7 @@
   <a href="https://calvinllc.net">
     <p>Portfolio</p>
   </a>
+  <a href="https://www.linkedin.com/in/calvin-guzman/">
+    <p>LinkedIn</p>
+  </a>
 </div>
