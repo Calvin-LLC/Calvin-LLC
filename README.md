@@ -1,10 +1,17 @@
 <h1 align="center">👋</h1>
-<p align="center">Current job: Data Science @ Wilson<br/>Programming langs: C++, Python, C, HTML/CSS, PHP, Javascript, Java, Kotlin, Lua, Matlab, CAPL, SQL, 
+<p align="center"><em>automating anything.</em></p>
+<p align="center">Current job: Data and Automation Student Associate at Wilson Sporting Goods<br/>Programming langs: C++, Python, C, HTML/CSS, PHP, Javascript, Java, Kotlin, Lua, Matlab, CAPL, SQL, Go, TypeScript, SQLite, Bash,
  and R.<br/>Hobbies: Reverse Engineering, Automation, Artificial Intelligence, Robotics, and Gaming<br/><br/></p>
 
 <div align="center">
   <a href="https://calvinllc.net">
     <img src="https://github.com/Calvin-LLC/Calvin-LLC/blob/main/waves.gif?raw=true" alt="Portfolio" width="400" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://fishing.calvinllc.net">
+    <img src="https://fishing.calvinllc.net/embed/map.svg" alt="Tennessee fishing spots, live map" width="400" />
+    <p>Free Tennessee fishing app, live</p>
   </a>
 </div>
 <div align="center">
